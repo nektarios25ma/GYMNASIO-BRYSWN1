@@ -8,3 +8,4 @@
 δ) breadboard 
 ε) καλώδια και οδηγούς -ηλεκτολογικά- (wires)
 στ)jumber wires
+ζ)ρελέ - 12V 4-Channel Relay Module Board with Optocouplers (High/Low)
