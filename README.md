@@ -4,8 +4,9 @@
 Υλικά που θα χρειαστούμε (hardware):
 α) 1 arduino kit
 β) 4 pir sensors
-γ) 8 led (υψηλής φωτεινότητας)
+γ) 4 led (υψηλής φωτεινότητας)
 δ) breadboard 
 ε) καλώδια και οδηγούς -ηλεκτολογικά- (wires)
 στ)jumber wires
 ζ)ρελέ - 12V 4-Channel Relay Module Board with Optocouplers (High/Low)
+η)διόδους 
