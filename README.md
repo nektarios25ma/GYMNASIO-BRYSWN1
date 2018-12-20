@@ -10,3 +10,4 @@
 στ)jumber wires
 ζ)ρελέ - 12V 4-Channel Relay Module Board with Optocouplers (High/Low)
 η)διόδους 
+θ)Bluetooth module (HC05/06)
