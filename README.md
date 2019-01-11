@@ -13,4 +13,4 @@
 ζ)ρελέ - 5V 4-Channel Relay Module Board with Optocouplers (High/Low)
 η)διόδους 
 θ)Bluetooth module (HC05/06)
-ί)LCD 20X4 (4 PIN)
+ί)LCD 20X4 I2C(4 PIN)
