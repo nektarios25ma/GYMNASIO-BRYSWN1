@@ -8,7 +8,7 @@
 β) 5 pir sensors
 γ) 4 led (υψηλής φωτεινότητας)
 δ) breadboard 
-ε) καλώδια και οδηγούς -ηλεκτολογικά- (wires)
+ε) καλώδια και οδηγούς -ηλεκτρολογικά- (wires)
 στ)jumber wires
 ζ)ρελέ - 5V 4-Channel Relay Module Board with Optocouplers (High/Low)
 η)διόδους 
