@@ -6,11 +6,12 @@
 Υλικά που θα χρειαστούμε (hardware):
 α) 1 arduino uno
 β) 5 pir sensors
-γ) 4 led (υψηλής φωτεινότητας)
+γ) 2 led (υψηλής φωτεινότητας)
 δ) breadboard 
 ε) καλώδια και οδηγούς -ηλεκτρολογικά- (wires)
 στ)jumber wires
 ζ)ρελέ - 5V 4-Channel Relay Module Board with Optocouplers (High/Low)
-η)διόδους 
-θ)Bluetooth module (HC05/06)
+η)διόδους και npn 2n2222 transistor
+θ)RTC_PCF8523 συσκευή που κρατάει ώρα ημερομηνία
 ί)LCD 20X4 I2C(4 PIN)
+ία)DHT22 θερμόμετρο
